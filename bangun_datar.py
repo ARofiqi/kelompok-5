@@ -21,3 +21,15 @@ def luas_lingkaran(pi=22/7,ruas=0):
     Menghitung Luas Lingkaran
     """
     return (pi*ruas**2)
+
+def luas_jajargenjang():
+    pass
+
+def luas_belahketupat():
+    pass
+
+def luas_layang_layang():
+    pass
+
+def luas_trapesium():
+    pass
